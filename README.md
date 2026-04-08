@@ -1,4 +1,6 @@
 📊 Análise de Vendas — Dashboard & SQL
+---
+
 Projeto de análise exploratória de dados de vendas, cobrindo desde o tratamento da base até a visualização no Power BI. Desenvolvido como parte do portfólio de transição para a área de dados.
 
 ---
@@ -14,6 +16,7 @@ Python (Pandas) — diagnóstico, limpeza e feature engineering
 SQL — consultas agregadas para análise de negócio
 Power BI — dashboard interativo com KPIs e gráficos
 Arquivo TXT - explicação dos insights
+
 ---
 
 🔍 Etapas da Análise
