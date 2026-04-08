@@ -1,0 +1,14 @@
+Sobre o Dataset
+O dataset contém 200 registros sem nenhum valor nulo e sem outliers, o que indica uma base de dados bem estruturada e confiável para análise. Foram registradas vendas ao longo de todo o ano de 2023, com 48 clientes únicos distribuídos em 4 regiões.
+
+Performance Geral
+O faturamento total chegou a R$ 114 milhões, com 492 vendas realizadas e um ticket médio de R$ 28,55 milhões. O preço unitário médio dos produtos ficou em torno de R$ 2.568, com valores variando entre R$ 63 e a faixa dos R$ 4.800+, o que sugere um portfólio com produtos de diferentes faixas de preço.
+
+Produtos
+O Notebook lidera o faturamento com R$ 29 Mi, seguido pelo Tablet (R$ 27 Mi) e Fone (R$ 24 Mi). Celular e Monitor ficam na cauda com R$ 18 Mi e R$ 17 Mi, respectivamente. Apesar de ser o top em faturamento, vale investigar se o Notebook também lidera em quantidade vendida ou se o resultado vem do preço unitário mais alto.
+
+Sazonalidade
+O faturamento mensal apresenta uma variação significativa ao longo do ano, com um vale acentuado em torno do mês 4-5 (chegando a R$ 5,8 Mi) e um pico expressivo próximo ao mês 7-8 (R$ 14,2 Mi). Isso sugere sazonalidade clara, possivelmente relacionada a datas comemorativas ou ciclos de compra corporativos, e é um sinal importante para planejamento de estoque e campanhas.
+
+Regiões
+O Sudeste domina com R$ 35 Mi, representando cerca de 30% do faturamento total. O Sul vem em segundo (R$ 30 Mi), seguido por Nordeste (R$ 25 Mi) e Centro-Oeste (R$ 24 Mi). A diferença entre Sudeste e Centro-Oeste é de R$ 11 Mi, considerável, mas a distribuição entre as regiões não é tão desigual, o que indica presença nacional razoável.
