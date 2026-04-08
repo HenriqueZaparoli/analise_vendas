@@ -12,9 +12,13 @@ Este projeto analisa um dataset de vendas com 200 registros ao longo de 2023, co
 
 🛠️ Tecnologias Utilizadas
 
+
 Python (Pandas) — diagnóstico, limpeza e feature engineering
+
 SQL — consultas agregadas para análise de negócio
+
 Power BI — dashboard interativo com KPIs e gráficos
+
 Arquivo TXT - explicação dos insights
 
 ---
